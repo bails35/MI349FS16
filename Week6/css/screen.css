@@ -1,0 +1,32 @@
+/* Add your CSS below */
+
+/* Example: adding a background color to the HTML body */
+body {
+  /* #ccc is shorthand HEX for a light grey */
+  background: linear-gradient( to right, #373854, #bb1d1d);
+  font-family: Helvetica;
+  margin: 0;
+  padding: 0;
+}
+.recipe-title {
+  text-align: center;
+  margin: 5px;
+}
+.source {
+  text-align: center;
+}
+.card {
+  background-color: white;
+  width: 50%;
+  margin: 15px auto;
+  padding: 5px 20px;
+  border-radius:20px;
+  box-shadow: 5px 5px 10px;
+}
+
+.card img {
+  width: 50%;
+  float: right;
+  border: 5px solid;
+}
+}
