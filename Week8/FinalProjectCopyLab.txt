@@ -1,0 +1,39 @@
+*Biography*
+
+Section containing personal information 
+
+-Picture of me - Connect users to me visually
+-Background information - Where I am from, hobbies, interests, personality, etc.
+-My education - Where I went to school, degree
+-Goals - What I hope to accomplish professionally and personally
+
+*Portfolio*
+
+A collection of work related projects and skills for interested users/employers
+
+-Art project - A sample of the artistic work I've completed
+-Video project - A video project from a class
+-Art skills - List of techniques or programs I am familiar with and have used for artistic purposes
+	-Drawing
+	-Photoshop
+-Video skills - Techniques and programs I have used to create videos
+	-Editing software
+	-Camera
+
+*Blog*
+
+Section where posts related to hobbies, interests, work-related topics are discussed
+
+-Sports - Thoughts on sports news, games, players, etc.
+-Movies - Reviews, thoughts, news, articles, style, etc.
+-Books - Reviews, recommendations, writing styles, authors, etc.
+-Video - How-to's, humor, thought-provoking, entertainment, etc.
+
+*Contact*
+
+How and when to communicate 
+
+-Availability info - Best time to contact during day/week
+-Phone - Mobile phone
+-Email - Work/personal email
+-Social Media - Link to Facebook/Twitter
